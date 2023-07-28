@@ -1,4 +1,4 @@
-# OOPInJavaScript
+# OOP In JavaScript
 
 ```Javascript
 /**
